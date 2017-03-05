@@ -1,1 +1,1 @@
-[csmithsalzberg.github.io](csmithsalzberg.github.io)
+<http://www.csmithsalzberg.github.io>
